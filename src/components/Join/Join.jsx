@@ -22,7 +22,7 @@ const Join = () => {
             name="user_email"
             placeholder="Wpisz swój adres email"
           />
-          <button className="btn btn-j">Join Now</button>
+          <button className="btn btn-j">Dołącz do nas</button>
         </form>
       </div>
     </div>
